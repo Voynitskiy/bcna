@@ -17,8 +17,8 @@
         "provider": "genznodes"
       },
       {
-        "id": "2175709bdd102641e9e4ddd38ba263b7f06214df",
-        "address": "65.109.28.177:26357",
+        "id": "0044946a4ba72e44fbe044cd0ce7661a35e7308f",
+        "address": "seeds-4.anode.team:10259",
         "provider": "AlxVoy ⚡ ANODE.TEAM"
       }
     ],
@@ -44,8 +44,8 @@
         "provider": "genznodes"
       },
       {
-        "id": "0044946a4ba72e44fbe044cd0ce7661a35e7308f",
-        "address": "seeds-4.anode.team:10259",
+        "id": "2175709bdd102641e9e4ddd38ba263b7f06214df",
+        "address": "65.109.28.177:26357",
         "provider": "AlxVoy ⚡ ANODE.TEAM"
       }
     ]
